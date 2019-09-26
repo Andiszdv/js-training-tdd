@@ -1,0 +1,17 @@
+Voir si ca functionne
+ -fonctions
+ -interface graphique (DOM)
+ -tests fonctionnels->API requete HTTP ->verifier la reponse,tester des cas d'erreurs
+ -tests utilisateurs/peer tests
+ -concepts: edge case, accessibilite(reseau debit+stabilite, iPhone5,huawei,iPad,vieil ordinateur)
+ 
+TEST DRIVEN DEVELOPMENT
+ 
+Test.asserts(addition(1,1),2);
+--->Test.asserts(additionj('lala','lolo'),undefined);
+expected --->resultat attendu undefined
+returned --->0
+
+TEST passed Ox
+
+
