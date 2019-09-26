@@ -8,6 +8,8 @@
  */
 
 // Your code:
+const word = "dindon";
+const escapeStr = `Le ${() => "dindon"}/ \`  a \' \\\\ dit qu'il était "${word}"`;
 
 //* Begin of tests
 const assert = require('assert');
